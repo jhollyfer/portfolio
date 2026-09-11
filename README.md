@@ -34,7 +34,7 @@ pnpm install
 ## 5. Rodar
 
 ```bash
-pnpm start
+pnpm dev
 ```
 
 Abre em http://localhost:5173
