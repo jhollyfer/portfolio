@@ -12,6 +12,7 @@ sudo rm -rf portfolio
 ```bash
 git clone git@github.com:jhollyfer/portfolio.git
 cd portfolio
+zed .
 ```
 
 ## 3. Configurar nome e cargo
