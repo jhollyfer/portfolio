@@ -37,4 +37,4 @@ pnpm install
 pnpm start
 ```
 
-Abre em http://localhost:3000
+Abre em http://localhost:5173
