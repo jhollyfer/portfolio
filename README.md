@@ -10,7 +10,7 @@ sudo rm -rf portfolio
 ## 2. Clonar
 
 ```bash
-git clone git@github.com:jhollyfer/portfolio.git
+git clone https://github.com/jhollyfer/portfolio.git
 cd portfolio
 zed .
 ```
