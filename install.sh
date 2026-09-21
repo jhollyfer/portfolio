@@ -17,5 +17,5 @@ command -v pnpm >/dev/null 2>&1 || npm install --global pnpm
 echo "==> Instalando dependências"
 pnpm install
 
-echo "==> Rodando em http://localhost:5173"
-pnpm dev
+# echo "==> Rodando em http://localhost:5173"
+# pnpm dev
